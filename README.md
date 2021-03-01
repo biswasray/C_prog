@@ -1,4 +1,4 @@
-#MCA 
-##Problem Solving and Programming Using C##
+# MCA 
+## Problem Solving and Programming Using C
 
-practical programs
+                 Practical programs
