@@ -9,7 +9,7 @@ void main() {
     printf("Enter the column size : ");
     scanf("%d",&c);
     int a[r][c];
-    printf("Enter data to square matrix\n");
+    printf("Enter data to matrix\n");
     for(int i=0;i<r;i++)
         for(int j=0;j<c;j++)
             scanf("%d",&a[i][j]);

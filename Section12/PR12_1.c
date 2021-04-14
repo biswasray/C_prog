@@ -31,11 +31,11 @@ int main()
         printf("Enter All 3 Subject Marks\n");
         scanf("%f%f%f",&s[i].sub1,&s[i].sub2,&s[i].sub3);
     }
-    printf("\nName\t Roll\t Total mark\n",i,sum);
+    printf("\nName\t\t Roll\t\t Total mark\n",i,sum);
     for(i=0;i<total;i++)
     {
         sum=s[i].sub1+s[i].sub2+s[i].sub3;
-        printf("%s\t %d\t %0.0f\n",s[i].name,s[i].roll,sum);
+        printf("%s\t\t %d\t\t %0.0f\n",s[i].name,s[i].roll,sum);
     }
     for(i=0;i<total;i++)
     {
