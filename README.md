@@ -1,6 +1,6 @@
 # MCA 
 ## Problem Solving and Programming Using C
-* Experiments Sections *
+** Experiments Sections **
 1. [Problem Solving Through Computers & Introduction to C](Section1)
 2. [Tokens & Data Types](Section2)
 3. [Operators & Expressions](Section3)
